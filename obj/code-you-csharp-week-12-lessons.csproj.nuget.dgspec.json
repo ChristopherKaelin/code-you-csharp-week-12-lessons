@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj": {}
+    "d:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj": {
+    "d:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj",
+        "projectUniqueName": "d:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj",
         "projectName": "code-you-csharp-week-12-lessons",
-        "projectPath": "D:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj",
+        "projectPath": "d:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\code-you-csharp-week-12-lessons.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\obj\\",
+        "outputPath": "d:\\Documents\\Development\\Repositories\\Code-KY\\2025-CSharp\\code-you-csharp-week-12-lessons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
