@@ -1,6 +1,6 @@
 using System;
 
-namespace Files_M3;
+namespace Files_ASync;
 
 public partial class BankCustomer : IBankCustomer
 {

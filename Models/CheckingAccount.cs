@@ -1,6 +1,6 @@
 using System;
 
-namespace Files_M3;
+namespace Files_ASync;
 
 public class CheckingAccount : BankAccount
 {
@@ -57,7 +57,7 @@ public class CheckingAccount : BankAccount
             {
                 // If the customer is not a premium customer:
                 //  - calculate the overdraft fee
-                //  - check the overdraft limit with the fee applied 
+                //  - check the overdraft limit with the fee applied
                 //  - charge an overdraft fee
                 double overdraftFee = AccountCalculations.CalculateOverdraftFee(Math.Abs(Balance), BankAccount.OverdraftRate, BankAccount.MaxOverdraftFee);
 

@@ -1,6 +1,6 @@
 using System;
 
-namespace Files_M3;
+namespace Files_ASync;
 
 public static class AccountCalculations
 {
@@ -36,7 +36,7 @@ public static class AccountCalculations
         return Math.Min(fee, maxOverdraftFee);
     }
 
-    // Method to calculate the value of currency after foreign exchange 
+    // Method to calculate the value of currency after foreign exchange
     public static double ReturnForeignCurrency(double amount, double exchangeRate)
     {
         return amount * exchangeRate;

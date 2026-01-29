@@ -1,4 +1,4 @@
-namespace Files_M3;
+namespace Files_ASync;
 
 public interface IBankCustomer
 {

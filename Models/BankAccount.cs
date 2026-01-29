@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Files_M3;
+namespace Files_ASync;
 
 public class BankAccount : IBankAccount
 {
@@ -68,7 +68,7 @@ public class BankAccount : IBankAccount
             {
                 transactionType = "Transfer";
             }
-            else if(description.Contains("-(BANK REFUND)"))
+            else if (description.Contains("-(BANK REFUND)"))
             {
                 transactionType = "Bank Refund";
             }
